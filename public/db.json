@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Купить новую обувь",
+      "details": "Необходимо купить 'Forum-84' в Нью-Йорке",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Стать Senior Developer",
+      "details": "senior developer senior developer senior developer senior developersenior developer senior developer senior developer senior developer senior developer senior developer senior developer senior developer senior developer senior developer senior developer",
+      "complete": false
+    },
+    {
+      "title": "Молоко",
+      "details": "Не забыть купить молоко в 18:00",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Kanye West",
+      "details": "Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda  Donda   Donda  Donda  Donda",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "test 03.03.2022",
+      "details": "простая проверка перед тем как залить в Гит",
+      "complete": true,
+      "id": 5
+    }
+  ]
+}
