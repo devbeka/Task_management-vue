@@ -32,8 +32,7 @@ export default {
         })
 
         await this.$router.push('/')
-      }
-      catch (error) {
+      } catch (error) {
         console.log(error)
       }
     },
@@ -62,6 +61,8 @@ input {
   border-bottom: 2px solid #ccc;
   width: 100%;
   box-sizing: border-box;
+  color: #2c3e50;
+  font-size: 18px;
 }
 textarea {
   border: 2px solid #ccc;
@@ -69,11 +70,13 @@ textarea {
   width: 100%;
   box-sizing: border-box;
   height: 110px;
+  color: #2c3e50;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
 }
 form button {
   display: block;
   margin: 20px auto 0;
-  background-color: #00ce89;
+  background-color: #3325b4;
   color: #fff;
   padding: 10px;
   border: none;
