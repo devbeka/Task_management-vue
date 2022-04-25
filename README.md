@@ -8,6 +8,9 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+
+### Srever start
+
 npx json-server --watch ./public/db.json
 
 
