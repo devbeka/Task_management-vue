@@ -9,8 +9,4 @@ npm install
 ```
 npm run serve
 
-### Srever start
-
-npx json-server --watch ./public/db.json
-
 
